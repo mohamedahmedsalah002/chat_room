@@ -1,0 +1,18 @@
+
+g	java:S112&"FDefine and throw a dedicated exception instead of using a generic one.(Ãø«üÿÿÿÿ8£·—‰É1
+q
+java:S2095A"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(æ¬ƒ“øÿÿÿÿ8¬·—‰É1
+l
+java:S20950"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Îÿí8¬·—‰É1
+q
+java:S2095)"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(àÚùÕÿÿÿÿÿ8¬·—‰É1
+»
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(êà™¿ùÿÿÿÿ8­·—‰É1
+R
+java:S2696"6Make the enclosing method "static" or remove this set.(Ïş©{8¯·—‰É1
+S
+java:S2696"6Make the enclosing method "static" or remove this set.(¾üİÆ8¯·—‰É1
+X
+java:S2696"6Make the enclosing method "static" or remove this set.(ÍöíŞúÿÿÿÿ8°·—‰É1
+X
+java:S6437"6Revoke and change this password, as it is compromised.(ÍöíŞúÿÿÿÿ8°·—‰É1
